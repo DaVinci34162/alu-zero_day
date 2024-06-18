@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Best School
+=======
+#!/bin/bash echo "Best School"
+>>>>>>> b954f612ca0c24df5c3cd320f5e6fda6c0759fd8
